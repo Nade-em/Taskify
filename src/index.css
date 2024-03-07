@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background: seashell;
+  height: 100vh;
+  width: 100vw;
+}
+::-webkit-progress-bar{
+  
+}
+::-webkit-scrollbar{
+}
+::-webkit-scrollbar-track{
+  background: red;
+}
